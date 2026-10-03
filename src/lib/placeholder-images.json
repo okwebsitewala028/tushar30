@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-office",
+      "description": "Modern Chartered Accountants Office Interior",
+      "imageUrl": "/images/taxservice.jpg",
+      "imageHint": "modern office"
+    },
+    {
+      "id": "about-office",
+      "description": "Collaborative Financial Advisory Meeting",
+      "imageUrl": "/images/office1.jpg",
+      "imageHint": "business meeting"
+    },
+    {
+      "id": "partner-1",
+      "description": "CA Anil Khemchand Portrait",
+      "imageUrl": "/images/anil.jpg",
+      "imageHint": "professional man"
+    },
+    {
+      "id": "partner-2",
+      "description": "Tanay Agrawal Portrait",
+      "imageUrl": "/images/Tanay.png",
+      "imageHint": "young professional"
+    }
+  ]
+}
